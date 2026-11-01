@@ -1,0 +1,6 @@
+:HL["/portfolio-issa-diallo-pages/_next/static/chunks/1svolz4g889y4.css","style"]
+:HC["/",""]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"packing-factory","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"projets","h":131168,"c":"$Q2"}]]
+0:{"b":"sZxqETe_b4Foj5bMdy4AI","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

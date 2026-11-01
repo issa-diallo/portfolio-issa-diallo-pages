@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://issa-diallo.github.io/portfolio-issa-diallo-pages/sitemap.xml

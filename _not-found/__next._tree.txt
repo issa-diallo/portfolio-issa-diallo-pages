@@ -1,0 +1,4 @@
+:HL["/portfolio-issa-diallo-pages/_next/static/chunks/1svolz4g889y4.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
+0:{"b":"sZxqETe_b4Foj5bMdy4AI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
